@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="1280" height="720" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" id="gSlide--slide2">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--slide2--0" style="fill:white;" />
+    <text transform="translate(9.60063, 708)" id="SectionNameTextPlaceholder--slide2--1" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Text</text>
+    <text transform="translate(44.7806, 708)" id="SectionNameTextPlaceholder--slide2--2" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(51.2806, 708)" id="SectionNameTextPlaceholder--slide2--3" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">to</text>
+    <text transform="translate(69.574, 708)" id="SectionNameTextPlaceholder--slide2--4" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(76.074, 708)" id="SectionNameTextPlaceholder--slide2--5" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Speech with</text>
+    <text transform="translate(186.741, 708)" id="SectionNameTextPlaceholder--slide2--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Eric</text>
+    <text transform="translate(223.407, 708)" id="SectionNameTextPlaceholder--slide2--7" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(234.741, 708)" id="SectionNameTextPlaceholder--slide2--8" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">a</text>
+    <text transform="translate(249.741, 708)" id="SectionNameTextPlaceholder--slide2--9" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">M</text>
+    <text transform="translate(267.907, 708)" id="SectionNameTextPlaceholder--slide2--10" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">ale</text>
+    <text transform="translate(298.407, 708)" id="SectionNameTextPlaceholder--slide2--11" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Voice</text>
+    <rect x="0" y="0" width="1280" height="67" id="Title_3--slide2--12" style="fill:#8064A2;" />
+    <text transform="translate(9.6, 46)" id="Title_3--slide2--13" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">What is Multimodal Content?</text>
+    <path d="M910.5 26.6671 C910.5 12.2154 922.215 0.500053 936.667 0.500053 L1254.33 0.500053 C1268.78 0.500053 1280.5 12.2154 1280.5 26.6671 L1280.5 131.333 C1280.5 145.785 1268.78 157.5 1254.33 157.5 L936.667 157.5 C922.215 157.5 910.5 145.785 910.5 131.333 Z" id="Rounded_Rectangle_10--slide2--14" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(941.874, 47)" id="Rounded_Rectangle_10--slide2--15" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">Multimodal Content</text>
+    <g id="Graphic_11--slide2--16">
+      <g>
+        <g>
+          <path d="M981.979 102.708 L981.979 67.2917 L995 67.2917 L995 78.2292 L1008.02 78.2292 L1008.02 102.708 L981.979 102.708 Z M998.125 68.5938 L1004.64 75.1042 L998.125 75.1042 L998.125 68.5938 Z M998.125 64.1667 L978.854 64.1667 L978.854 105.833 L1011.15 105.833 L1011.15 75.625 L998.125 64.1667 Z" />
+          <path d="M985.104 83.4375 L1004.9 83.4375 L1004.9 85.5208 L985.104 85.5208 Z" />
+          <path d="M985.104 79.2708 L991.875 79.2708 L991.875 81.3542 L985.104 81.3542 Z" />
+          <path d="M985.104 87.6042 L1004.9 87.6042 L1004.9 89.6875 L985.104 89.6875 Z" />
+          <path d="M985.104 91.7708 L1004.9 91.7708 L1004.9 93.8542 L985.104 93.8542 Z" />
+          <path d="M985.104 95.9375 L1004.9 95.9375 L1004.9 98.0208 L985.104 98.0208 Z" />
+        </g>
+      </g>
+    </g>
+    <g id="Graphic_12--slide2--17">
+      <g>
+        <g>
+          <path d="M1114.28 71.4583 L1112.25 73.4896 C1118.71 79.9479 1118.71 90.4688 1112.25 96.9271 L1114.28 98.9583 C1121.89 91.4062 1121.89 79.0625 1114.28 71.4583 Z" />
+          <path d="M1110.17 75.5208 L1108.14 77.5521 C1112.35 81.7708 1112.35 88.5938 1108.14 92.8646 L1110.17 94.8958 C1115.53 89.5312 1115.53 80.8854 1110.17 75.5208 Z" />
+          <path d="M1106.16 79.6875 L1104.12 81.7188 C1106.1 83.6979 1106.1 86.875 1104.12 88.8542 L1106.16 90.8854 C1109.28 87.7604 1109.28 82.7604 1106.16 79.6875 Z" />
+          <path d="M1077.82 78.0208 L1077.82 91.9792 L1087.93 91.9792 L1101 102.708 L1101 67.2917 L1087.93 78.0208 Z" />
+        </g>
+      </g>
+    </g>
+    <g id="Graphic_13--slide2--18">
+      <g>
+        <g>
+          <path d="M1203.24 92.5 C1207.3 88.5938 1207.51 82.1354 1203.66 77.9688 C1207.77 80.1042 1211.16 83.3854 1213.14 85.5729 C1211.05 87.6042 1207.51 90.625 1203.24 92.5 Z M1182.77 81.7708 C1184.49 80.3125 1186.31 79.0625 1188.29 78.0208 C1184.49 82.1875 1184.7 88.5938 1188.76 92.5 C1184.49 90.625 1180.9 87.6042 1178.86 85.5729 C1180.06 84.2188 1181.36 82.9688 1182.77 81.7708 L1182.77 81.7708 Z M1196 93.3333 C1191.42 93.3333 1187.67 89.5833 1187.67 85 C1187.67 80.4167 1191.42 76.6667 1196 76.6667 C1200.58 76.6667 1204.33 80.4167 1204.33 85 C1204.33 89.5833 1200.58 93.3333 1196 93.3333 Z M1216.26 84.1146 C1213.24 80.5729 1205.32 72.5 1196 72.5 C1186.68 72.5 1178.76 80.5729 1175.74 84.1146 C1174.96 85.0521 1175.01 86.3542 1175.84 87.2396 C1178.92 90.4688 1186.78 97.5 1196 97.5 C1205.22 97.5 1213.08 90.4688 1216.21 87.2396 C1216.99 86.4062 1217.04 85.0521 1216.26 84.1146 Z" />
+          <path d="M1201.21 85 C1201.21 87.8765 1198.88 90.2083 1196 90.2083 C1193.12 90.2083 1190.79 87.8765 1190.79 85 C1190.79 82.1235 1193.12 79.7917 1196 79.7917 C1198.88 79.7917 1201.21 82.1235 1201.21 85 Z" />
+        </g>
+      </g>
+    </g>
+    <rect x="951" y="110" width="83" height="33" id="Rectangle_14--slide2--19" style="fill:#4F81BD;" />
+    <text transform="translate(968.45, 134)" id="Rectangle_14--slide2--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">Read</text>
+    <rect x="1055" y="110" width="83" height="33" id="Rectangle_15--slide2--21" style="fill:#4F81BD;" />
+    <text transform="translate(1067.67, 134)" id="Rectangle_15--slide2--22" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">Listen</text>
+    <rect x="1155" y="110" width="83" height="33" id="Rectangle_16--slide2--23" style="fill:#4F81BD;" />
+    <text transform="translate(1165.25, 134)" id="Rectangle_16--slide2--24" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">Watch</text>
+    <path d="M7.50005 192.5 C7.50005 179.798 17.7887 169.5 30.4804 169.5 L1250.52 169.5 C1263.21 169.5 1273.5 179.798 1273.5 192.5 L1273.5 284.5 C1273.5 297.202 1263.21 307.5 1250.52 307.5 L30.4804 307.5 C17.7887 307.5 7.50005 297.202 7.50005 284.5 L7.50005 192.5 Z" id="Freeform_17--slide2--25" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="1" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(27.2005, 227)" id="Freeform_17--slide2--26" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="44" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">Multimodal content refers to information or communication that</text>
+    <text transform="translate(27.2005, 274)" id="Freeform_17--slide2--27" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="44" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">uses multiple modes or channels to convey a message or meaning.</text>
+    <path d="M7.50005 340.5 C7.50005 327.798 17.7887 317.5 30.4804 317.5 L1250.52 317.5 C1263.21 317.5 1273.5 327.798 1273.5 340.5 L1273.5 432.5 C1273.5 445.202 1263.21 455.5 1250.52 455.5 L30.4804 455.5 C17.7887 455.5 7.50005 445.202 7.50005 432.5 L7.50005 340.5 Z" id="Freeform_18--slide2--28" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(27.2005, 374)" id="Freeform_18--slide2--29" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="44" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">These modes can include text, images, audio, video, and interactive</text>
+    <text transform="translate(27.2005, 421)" id="Freeform_18--slide2--30" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="44" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">elements.</text>
+    <path d="M7.50005 488.5 C7.50005 475.798 17.7887 465.5 30.4804 465.5 L1250.52 465.5 C1263.21 465.5 1273.5 475.798 1273.5 488.5 L1273.5 580.5 C1273.5 593.202 1263.21 603.5 1250.52 603.5 L30.4804 603.5 C17.7887 603.5 7.50005 593.202 7.50005 580.5 L7.50005 488.5 Z" id="Freeform_19--slide2--31" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(27.2005, 522)" id="Freeform_19--slide2--32" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="44" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">The purpose of multimodal content is to enhance the user</text>
+    <text transform="translate(27.2005, 569)" id="Freeform_19--slide2--33" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="44" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">experience and make the information more engaging and accessible.</text>
+  </g>
+</svg>

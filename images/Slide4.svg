@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="1280" height="720" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="1120" height="497" xlink:href="images/Slide4--img1.png" id="img1" />
+    <clipPath id="clip2">
+      <rect x="0" y="0" width="5886450" height="2612112" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" id="gSlide--slide4">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--slide4--0" style="fill:white;" />
+    <text transform="translate(9.60063, 708)" id="SectionNameTextPlaceholder--slide4--1" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Text</text>
+    <text transform="translate(44.7806, 708)" id="SectionNameTextPlaceholder--slide4--2" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(51.2806, 708)" id="SectionNameTextPlaceholder--slide4--3" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">to</text>
+    <text transform="translate(69.574, 708)" id="SectionNameTextPlaceholder--slide4--4" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(76.074, 708)" id="SectionNameTextPlaceholder--slide4--5" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Speech with</text>
+    <text transform="translate(186.741, 708)" id="SectionNameTextPlaceholder--slide4--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Roger</text>
+    <text transform="translate(242.121, 708)" id="SectionNameTextPlaceholder--slide4--7" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(253.454, 708)" id="SectionNameTextPlaceholder--slide4--8" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">a Male Voice</text>
+    <rect x="0" y="0" width="1280" height="67" id="Title_3--slide4--9" style="fill:#8064A2;" />
+    <text transform="translate(9.6, 44)" id="Title_3--slide4--10" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="37" font-weight="700" style="fill:white;">Why should you create Multimodal</text>
+    <text transform="translate(533.807, 44)" id="Title_3--slide4--11" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="37" font-weight="700" style="fill:white;">C</text>
+    <text transform="translate(553.473, 44)" id="Title_3--slide4--12" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="37" font-weight="700" style="fill:white;">ontent</text>
+    <text transform="translate(651.707, 44)" id="Title_3--slide4--13" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="37" font-weight="700" style="fill:white;">?</text>
+    <text transform="translate(78.645, 136)" id="Content_Placeholder_5--slide4--14" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="72" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:#4A452A;">“The world is moving to a place where</text>
+    <text transform="translate(83.5917, 214)" id="Content_Placeholder_5--slide4--15" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="72" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:#4A452A;">content needs to be in</text>
+    <text transform="translate(755.852, 214)" id="Content_Placeholder_5--slide4--16" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="72" font-weight="700" class="fragment-off" data-fragment-index="1" style="fill:#4A452A;">multiple forms</text>
+    <text transform="translate(130.505, 291)" id="Content_Placeholder_5--slide4--17" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="72" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:#4A452A;">because consumers are consuming</text>
+    <text transform="translate(253.772, 369)" id="Content_Placeholder_5--slide4--18" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="72" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:#4A452A;">content in</text>
+    <text transform="translate(566.398, 369)" id="Content_Placeholder_5--slide4--19" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="72" font-weight="700" class="fragment-off" data-fragment-index="1" style="fill:#4A452A;">multiple ways</text>
+    <text transform="translate(982.198, 369)" id="Content_Placeholder_5--slide4--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="72" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:#4A452A;">.”</text>
+    <text transform="translate(438.392, 449)" id="Content_Placeholder_5--slide4--21" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="59" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:#4A452A;">Gary</text>
+    <text transform="translate(564.178, 449)" id="Content_Placeholder_5--slide4--22" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="59" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:#4A452A;">Vaynerchuk</text>
+    <path d="M29.5001 492.834 C29.5001 487.127 34.1266 482.5 39.8338 482.5 L575.166 482.5 C580.873 482.5 585.5 487.127 585.5 492.834 L585.5 534.166 C585.5 539.873 580.873 544.5 575.166 544.5 L39.8338 544.5 C34.1266 544.5 29.5001 539.873 29.5001 534.166 Z" id="Rounded_Rectangle_27--slide4--23" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(41.2845, 522)" id="Rounded_Rectangle_27--slide4--24" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Overwhelmed?</text>
+    <path d="M28.5001 561.834 C28.5001 556.127 33.1265 551.5 38.8335 551.5 L575.167 551.5 C580.874 551.5 585.5 556.127 585.5 561.834 L585.5 603.167 C585.5 608.874 580.874 613.5 575.167 613.5 L38.8335 613.5 C33.1265 613.5 28.5001 608.874 28.5001 603.167 Z" id="Rounded_Rectangle_28--slide4--25" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(41.0182, 591)" id="Rounded_Rectangle_28--slide4--26" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">How many different tools do I need?</text>
+    <path d="M28.5001 631 C28.5001 625.201 33.2012 620.5 39.0005 620.5 L575 620.5 C580.799 620.5 585.5 625.201 585.5 631 L585.5 673 C585.5 678.799 580.799 683.5 575 683.5 L39.0005 683.5 C33.2012 683.5 28.5001 678.799 28.5001 673 Z" id="Rounded_Rectangle_29--slide4--27" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="4" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(41.0182, 661)" id="Rounded_Rectangle_29--slide4--28" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:white;">What is the effort involved</text>
+    <text transform="translate(328.938, 661)" id="Rounded_Rectangle_29--slide4--29" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:white;">?</text>
+    <g transform="matrix(0.000104987, 0, 0, 0.000104987, 654, 476)" id="Content_Placeholder_17--slide4--30">
+      <g clip-path="url(#clip2)" transform="scale(1, 1.00278)">
+        <use xlink:href="#img1" width="100%" height="100%" transform="scale(5255.76)" />
+      </g>
+    </g>
+  </g>
+</svg>

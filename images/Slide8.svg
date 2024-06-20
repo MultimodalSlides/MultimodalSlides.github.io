@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="9.31323E-10" y="0" width="1609725" height="714375" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="280" height="125" xlink:href="images/Slide8--img1.png" id="img1" />
+    <clipPath id="clip2">
+      <rect x="0" y="0" width="1600200" height="714375" />
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="1600200" height="714375" />
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="0" y="0" width="1609725" height="714375" />
+    </clipPath>
+    <clipPath id="clip5">
+      <rect x="0" y="0" width="1600200" height="714375" />
+    </clipPath>
+    <clipPath id="clip6">
+      <rect x="0" y="0" width="2209800" height="1085850" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="600" height="315" xlink:href="images/Slide8--img7.jpg" id="img7" />
+    <clipPath id="clip8">
+      <path d="M378432 201834 L2579641 201834 L2579641 1287684 L378432 1287684 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip9">
+      <rect x="0" y="0" width="1657350" height="1123950" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="500" height="250" xlink:href="images/Slide8--img10.jpg" id="img10" />
+    <clipPath id="clip11">
+      <rect x="1092052" y="368355" width="1651345" height="1123950" />
+    </clipPath>
+    <clipPath id="clip12">
+      <rect x="0" y="0" width="2486025" height="1047750" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="413" height="175" xlink:href="images/Slide8--img13.jpg" id="img13" />
+    <clipPath id="clip14">
+      <rect x="0" y="0" width="2472690" height="1047750" />
+    </clipPath>
+  </defs>
+  <g id="gSlide--slide8">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--slide8--0" style="fill:white;" />
+    <rect x="898.5" y="78.5001" width="344" height="608" id="Rectangle_80--slide8--1" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#8064A2;stroke:#8064A2;" />
+    <rect x="468.5" y="78.5001" width="344" height="608" id="Rectangle_79--slide8--2" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#8064A2;stroke:#8064A2;" />
+    <rect x="38.5001" y="78.5001" width="344" height="608" id="Rectangle_78--slide8--3" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#8064A2;stroke:#8064A2;" />
+    <text transform="translate(9.60063, 708)" id="SectionNameTextPlaceholder--slide8--4" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Text</text>
+    <text transform="translate(44.7806, 708)" id="SectionNameTextPlaceholder--slide8--5" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(51.2806, 708)" id="SectionNameTextPlaceholder--slide8--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">to</text>
+    <text transform="translate(69.574, 708)" id="SectionNameTextPlaceholder--slide8--7" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(76.074, 708)" id="SectionNameTextPlaceholder--slide8--8" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Speech with</text>
+    <text transform="translate(186.741, 708)" id="SectionNameTextPlaceholder--slide8--9" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Nancy</text>
+    <text transform="translate(245.407, 708)" id="SectionNameTextPlaceholder--slide8--10" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(256.741, 708)" id="SectionNameTextPlaceholder--slide8--11" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">a</text>
+    <text transform="translate(271.741, 708)" id="SectionNameTextPlaceholder--slide8--12" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Female</text>
+    <text transform="translate(339.427, 708)" id="SectionNameTextPlaceholder--slide8--13" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Voice</text>
+    <path d="M898.5 94.8336 C898.5 89.1266 903.127 84.5001 908.834 84.5001 L1232.17 84.5001 C1237.87 84.5001 1242.5 89.1266 1242.5 94.8336 L1242.5 136.166 C1242.5 141.874 1237.87 146.5 1232.17 146.5 L908.834 146.5 C903.127 146.5 898.5 141.874 898.5 136.166 Z" id="Rounded_Rectangle_12--slide8--14" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#8064A2;stroke:#8064A2;" />
+    <text transform="translate(1007.14, 129)" id="Rounded_Rectangle_12--slide8--15" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="400" style="fill:white;">Publish</text>
+    <path d="M68.5001 182.834 C68.5001 168.842 79.8424 157.5 93.8339 157.5 L327.166 157.5 C341.158 157.5 352.5 168.842 352.5 182.834 L352.5 284.166 C352.5 298.158 341.158 309.5 327.166 309.5 L93.8339 309.5 C79.8424 309.5 68.5001 298.158 68.5001 284.166 Z" id="Rounded_Rectangle_15--slide8--16" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(203.776, 242)" id="Rounded_Rectangle_15--slide8--17" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="700" style="fill:white;">?</text>
+    <path d="M38.5001 94.8336 C38.5001 89.1266 43.1265 84.5001 48.8336 84.5001 L372.167 84.5001 C377.874 84.5001 382.5 89.1266 382.5 94.8336 L382.5 136.166 C382.5 141.874 377.874 146.5 372.167 146.5 L48.8336 146.5 C43.1265 146.5 38.5001 141.874 38.5001 136.166 Z" id="Rounded_Rectangle_26--slide8--18" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#8064A2;stroke:#8064A2;" />
+    <text transform="translate(153.233, 129)" id="Rounded_Rectangle_26--slide8--19" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="400" style="fill:white;">Create</text>
+    <path d="M468.5 94.8336 C468.5 89.1266 473.127 84.5001 478.834 84.5001 L802.167 84.5001 C807.874 84.5001 812.5 89.1266 812.5 94.8336 L812.5 136.166 C812.5 141.874 807.874 146.5 802.167 146.5 L478.834 146.5 C473.127 146.5 468.5 141.874 468.5 136.166 Z" id="Rounded_Rectangle_27--slide8--20" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#8064A2;stroke:#8064A2;" />
+    <text transform="translate(571.813, 129)" id="Rounded_Rectangle_27--slide8--21" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="43" font-weight="400" style="fill:white;">Convert</text>
+    <path d="M382 112 L453.3 112 L453.3 118 L382 118 Z M450.3 106 L468.3 115 L450.3 124 Z" id="Straight_Arrow_Connector_29--slide8--22" style="fill:#8064A2;" />
+    <path d="M812 112 L883.298 112 L883.298 118 L812 118 Z M880.298 106 L898.298 115 L880.298 124 Z" id="Straight_Arrow_Connector_30--slide8--23" style="fill:#8064A2;" />
+    <path d="M498.5 380.834 C498.5 354.692 519.692 333.5 545.834 333.5 L735.166 333.5 C761.308 333.5 782.5 354.692 782.5 380.834 L782.5 626.166 C782.5 652.308 761.308 673.5 735.166 673.5 L545.834 673.5 C519.692 673.5 498.5 652.308 498.5 626.166 Z" id="Rounded_Rectangle_5--slide8--24" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(521.74, 373)" id="Rounded_Rectangle_5--slide8--25" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">Multimodal Web Page</text>
+    <path d="M68.5001 380.834 C68.5001 354.692 89.6923 333.5 115.834 333.5 L305.166 333.5 C331.308 333.5 352.5 354.692 352.5 380.834 L352.5 626.166 C352.5 652.308 331.308 673.5 305.166 673.5 L115.834 673.5 C89.6923 673.5 68.5001 652.308 68.5001 626.166 Z" id="Rounded_Rectangle_13--slide8--26" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(91.3623, 374)" id="Rounded_Rectangle_13--slide8--27" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">Practical AI Assistance</text>
+    <path d="M928.5 380.834 C928.5 354.692 949.692 333.5 975.834 333.5 L1165.17 333.5 C1191.31 333.5 1212.5 354.692 1212.5 380.834 L1212.5 626.166 C1212.5 652.308 1191.31 673.5 1165.17 673.5 L975.834 673.5 C949.692 673.5 928.5 652.308 928.5 626.166 Z" id="Rounded_Rectangle_14--slide8--28" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(951.477, 373)" id="Rounded_Rectangle_14--slide8--29" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">Multimodal Website</text>
+    <g clip-path="url(#clip0)" transform="matrix(0.000104987, 0, 0, 0.000104987, 613, 387)" id="Content_Placeholder_17--slide8--30">
+      <g clip-path="url(#clip2)" transform="scale(1.00595, 1)">
+        <use xlink:href="#img1" width="100%" height="100%" transform="scale(5715)" />
+      </g>
+    </g>
+    <g transform="matrix(0.000104987, 0, 0, 0.000104987, 179, 387)" id="Content_Placeholder_17--slide8--31">
+      <g clip-path="url(#clip3)" transform="scale(1.0119, 1)">
+        <use xlink:href="#img1" width="100%" height="100%" transform="scale(5715)" />
+      </g>
+    </g>
+    <g clip-path="url(#clip4)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1043, 385)" id="Content_Placeholder_17--slide8--32">
+      <g clip-path="url(#clip5)" transform="matrix(1.00595, 0, 0, 1, 0, -0.25)">
+        <use xlink:href="#img1" width="100%" height="100%" transform="scale(5715)" />
+      </g>
+    </g>
+    <path d="M352 231 L488.281 231 L488.281 235 L352 235 Z M486.281 227 L498.281 233 L486.281 239 Z" id="Straight_Arrow_Connector_32--slide8--33" />
+    <path d="M2.88347E-06 -2 L135.64 -1.9998 L135.64 2.0002 L-2.88347E-06 2 Z M133.64 -5.99981 L145.64 0.000209974 L133.64 6.00019 Z" transform="matrix(1, 0, 0, -1, 782, 233)" id="Straight_Arrow_Connector_39--slide8--34" />
+    <path d="M468.5 19.8336 C468.5 14.1266 473.127 9.50005 478.834 9.50005 L802.167 9.50005 C807.874 9.50005 812.5 14.1266 812.5 19.8336 L812.5 61.1665 C812.5 66.8736 807.874 71.5001 802.167 71.5001 L478.834 71.5001 C473.127 71.5001 468.5 66.8736 468.5 61.1665 Z" id="Rounded_Rectangle_44--slide8--35" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#00B050;stroke:#8064A2;" />
+    <text transform="translate(516.39, 51)" id="Rounded_Rectangle_44--slide8--36" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="32" font-weight="400" style="fill:white;">Automatic Outputs</text>
+    <path d="M38.5001 19.8336 C38.5001 14.1266 43.1265 9.50005 48.8336 9.50005 L372.167 9.50005 C377.874 9.50005 382.5 14.1266 382.5 19.8336 L382.5 61.1665 C382.5 66.8736 377.874 71.5001 372.167 71.5001 L48.8336 71.5001 C43.1265 71.5001 38.5001 66.8736 38.5001 61.1665 Z" id="Rounded_Rectangle_45--slide8--37" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#00B050;stroke:#8064A2;" />
+    <text transform="translate(140.499, 51)" id="Rounded_Rectangle_45--slide8--38" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="32" font-weight="400" style="fill:white;">One Editor</text>
+    <path d="M898.5 19.8336 C898.5 14.1266 903.127 9.50005 908.834 9.50005 L1232.17 9.50005 C1237.87 9.50005 1242.5 14.1266 1242.5 19.8336 L1242.5 61.1665 C1242.5 66.8736 1237.87 71.5001 1232.17 71.5001 L908.834 71.5001 C903.127 71.5001 898.5 66.8736 898.5 61.1665 Z" id="Rounded_Rectangle_47--slide8--39" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#00B050;stroke:#8064A2;" />
+    <text transform="translate(989.446, 51)" id="Rounded_Rectangle_47--slide8--40" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="32" font-weight="400" style="fill:white;">Easy Sharing</text>
+    <path d="M498.5 182.834 C498.5 168.842 509.842 157.5 523.834 157.5 L757.166 157.5 C771.158 157.5 782.5 168.842 782.5 182.834 L782.5 284.166 C782.5 298.158 771.158 309.5 757.166 309.5 L523.834 309.5 C509.842 309.5 498.5 298.158 498.5 284.166 Z" id="Rounded_Rectangle_63--slide8--41" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(631.654, 245)" id="Rounded_Rectangle_63--slide8--42" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="700" style="fill:white;">?</text>
+    <a href="https://revealjs.com/" id="Picture_2a--slide8--43__LINK" target="_blank">
+      <g clip-path="url(#clip6)" transform="matrix(0.000104987, 0, 0, 0.000104987, 524, 176)" id="Picture_2a--slide8--43" class="fragment-off" data-fragment-index="2">
+        <g clip-path="url(#clip8)" transform="matrix(1.0039, 0, 0, 1, -379909, -201834)">
+          <use xlink:href="#img7" width="100%" height="100%" transform="scale(4842.38)" />
+        </g>
+      </g>
+    </a>
+    <path d="M928.5 182.834 C928.5 168.842 939.842 157.5 953.834 157.5 L1187.17 157.5 C1201.16 157.5 1212.5 168.842 1212.5 182.834 L1212.5 284.166 C1212.5 298.158 1201.16 309.5 1187.17 309.5 L953.834 309.5 C939.842 309.5 928.5 298.158 928.5 284.166 Z" id="Rounded_Rectangle_69--slide8--44" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(1061.39, 245)" id="Rounded_Rectangle_69--slide8--45" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="700" style="fill:white;">?</text>
+    <a href="https://pages.github.com/" id="Picture_4--slide8--46__LINK" target="_blank">
+      <g clip-path="url(#clip9)" transform="matrix(0.000104987, 0, 0, 0.000104987, 983, 175)" id="Picture_4--slide8--46" class="fragment-off" data-fragment-index="3">
+        <g clip-path="url(#clip11)" transform="matrix(1.00364, 0, 0, 1, -1096024, -368355)">
+          <use xlink:href="#img10" width="100%" height="100%" transform="scale(7803.72)" />
+        </g>
+      </g>
+    </a>
+    <path d="M72.5001 484.834 C72.5001 466.977 86.9765 452.5 104.834 452.5 L316.166 452.5 C334.024 452.5 348.5 466.977 348.5 484.834 L348.5 614.166 C348.5 632.024 334.024 646.5 316.166 646.5 L104.834 646.5 C86.9765 646.5 72.5001 632.024 72.5001 614.166 Z" id="Rounded_Rectangle_72--slide8--47" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="1" style="fill:#8064A2;stroke:#1C334E;" />
+    <text transform="translate(90.8756, 510)" id="Rounded_Rectangle_72--slide8--48" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">Convert Slide “Notes”</text>
+    <text transform="translate(90.8756, 542)" id="Rounded_Rectangle_72--slide8--49" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">to Narration Audio</text>
+    <text transform="translate(90.8756, 574)" id="Rounded_Rectangle_72--slide8--50" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">Clips by using</text>
+    <text transform="translate(90.8756, 606)" id="Rounded_Rectangle_72--slide8--51" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">Text</text>
+    <text transform="translate(135.016, 606)" id="Rounded_Rectangle_72--slide8--52" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">-</text>
+    <text transform="translate(143.182, 606)" id="Rounded_Rectangle_72--slide8--53" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">To</text>
+    <text transform="translate(167.816, 606)" id="Rounded_Rectangle_72--slide8--54" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">-</text>
+    <text transform="translate(175.982, 606)" id="Rounded_Rectangle_72--slide8--55" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="27" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">Speech APIs</text>
+    <path d="M502.5 484.834 C502.5 466.977 516.977 452.5 534.834 452.5 L746.166 452.5 C764.024 452.5 778.5 466.977 778.5 484.834 L778.5 614.166 C778.5 632.024 764.024 646.5 746.166 646.5 L534.834 646.5 C516.977 646.5 502.5 632.024 502.5 614.166 Z" id="Rounded_Rectangle_74--slide8--56" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#8064A2;stroke:#1C334E;" />
+    <text transform="translate(520.933, 514)" id="Rounded_Rectangle_74--slide8--57" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Slides as SVG images.</text>
+    <text transform="translate(520.933, 543)" id="Rounded_Rectangle_74--slide8--58" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Narrations as .mp3 files.</text>
+    <text transform="translate(520.933, 572)" id="Rounded_Rectangle_74--slide8--59" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Create HTML using the</text>
+    <text transform="translate(520.933, 601)" id="Rounded_Rectangle_74--slide8--60" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">reveal.js standard.</text>
+    <path d="M932.5 484.834 C932.5 466.977 946.977 452.5 964.834 452.5 L1176.17 452.5 C1194.02 452.5 1208.5 466.977 1208.5 484.834 L1208.5 614.166 C1208.5 632.024 1194.02 646.5 1176.17 646.5 L964.834 646.5 C946.977 646.5 932.5 632.024 932.5 614.166 Z" id="Rounded_Rectangle_75--slide8--61" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#8064A2;stroke:#1C334E;" />
+    <text transform="translate(950.991, 493)" id="Rounded_Rectangle_75--slide8--62" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">Copy all content to User’s</text>
+    <text transform="translate(950.991, 519)" id="Rounded_Rectangle_75--slide8--63" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">GitHub repository.</text>
+    <text transform="translate(950.991, 544)" id="Rounded_Rectangle_75--slide8--64" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">User can use GitHub Pages</text>
+    <text transform="translate(950.991, 570)" id="Rounded_Rectangle_75--slide8--65" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">to Host site for free.</text>
+    <text transform="translate(950.991, 595)" id="Rounded_Rectangle_75--slide8--66" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">User owns and controls all</text>
+    <text transform="translate(950.991, 621)" id="Rounded_Rectangle_75--slide8--67" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">converted content.</text>
+    <g clip-path="url(#clip12)" transform="matrix(0.000104987, 0, 0, 0.000104987, 81, 176)" id="Picture_2--slide8--68" class="fragment-off" data-fragment-index="1">
+      <g clip-path="url(#clip14)" transform="matrix(1.00539, 0, 0, 1, -0.0625, 0)">
+        <use xlink:href="#img13" width="100%" height="100%" transform="scale(5987.14)" />
+      </g>
+    </g>
+  </g>
+</svg>

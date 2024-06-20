@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <g id="gSlide--slide10">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--slide10--0" style="fill:white;" />
+    <text transform="translate(9.60063, 708)" id="SectionNameTextPlaceholder--slide10--1" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Text</text>
+    <text transform="translate(44.7806, 708)" id="SectionNameTextPlaceholder--slide10--2" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(51.2806, 708)" id="SectionNameTextPlaceholder--slide10--3" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">to</text>
+    <text transform="translate(69.574, 708)" id="SectionNameTextPlaceholder--slide10--4" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(76.074, 708)" id="SectionNameTextPlaceholder--slide10--5" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Speech with</text>
+    <text transform="translate(186.741, 708)" id="SectionNameTextPlaceholder--slide10--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Davis</text>
+    <text transform="translate(237.387, 708)" id="SectionNameTextPlaceholder--slide10--7" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(248.721, 708)" id="SectionNameTextPlaceholder--slide10--8" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">a</text>
+    <text transform="translate(263.721, 708)" id="SectionNameTextPlaceholder--slide10--9" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Male</text>
+    <text transform="translate(312.387, 708)" id="SectionNameTextPlaceholder--slide10--10" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Voice</text>
+    <rect x="0" y="0" width="1280" height="67" id="Title_2--slide10--11" style="fill:#8064A2;" />
+    <text transform="translate(9.6, 46)" id="Title_2--slide10--12" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Not many options for Slide</text>
+    <text transform="translate(465.187, 46)" id="Title_2--slide10--13" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">-</text>
+    <text transform="translate(478.187, 46)" id="Title_2--slide10--14" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">based Tools</text>
+    <path d="M1272.5 118.667 L1272.5 223.333 C1272.5 237.785 1260.84 249.5 1246.45 249.5 L462.5 249.5 L462.5 249.5 L462.5 92.5001 L462.5 92.5001 L1246.45 92.5001 C1260.84 92.5001 1272.5 104.216 1272.5 118.667 Z" id="Freeform_6--slide10--15" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" fill-opacity="0.9" stroke-opacity="0.9" class="fragment-off" data-fragment-index="1" style="fill:#D0D8E8;stroke:#D0D8E8;" />
+    <text transform="translate(472.751, 136)" id="Freeform_6--slide10--16" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="1">•</text>
+    <a href="https://www.slideshare.net/" id="Freeform_6--slide10--17__LINK" target="_blank">
+      <text transform="translate(496.751, 136)" id="Freeform_6--slide10--17" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:blue;">Slideshare.net</text>
+    </a>
+    <path d="M496.751 139.992 L596.751 139.992 L696.751 139.992 L696.751 141.992 L596.751 141.992 L496.751 141.992 Z" id="Freeform_6--slide10--18" fill-rule="evenodd" class="fragment-off" data-fragment-index="1" style="fill:blue;" />
+    <text transform="translate(472.751, 180)" id="Freeform_6--slide10--19" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="1">•</text>
+    <a href="https://speakerdeck.com/" id="Freeform_6--slide10--20__LINK" target="_blank">
+      <text transform="translate(496.751, 180)" id="Freeform_6--slide10--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:blue;">Speaker</text>
+      <text transform="translate(616.631, 180)" id="Freeform_6--slide10--21" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:blue;">D</text>
+      <text transform="translate(637.965, 180)" id="Freeform_6--slide10--22" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:blue;">eck</text>
+    </a>
+    <path d="M496.751 183.992 L685.751 183.992 L685.751 185.992 L496.751 185.992 Z" id="Freeform_6--slide10--23" fill-rule="evenodd" class="fragment-off" data-fragment-index="1" style="fill:blue;" />
+    <text transform="translate(472.751, 224)" id="Freeform_6--slide10--24" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="1">•</text>
+    <a href="https://www.decklinks.com/" id="Freeform_6--slide10--25__LINK" target="_blank">
+      <text transform="translate(496.751, 224)" id="Freeform_6--slide10--25" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:blue;">Deck</text>
+      <text transform="translate(565.751, 224)" id="Freeform_6--slide10--26" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:blue;">L</text>
+      <text transform="translate(580.251, 224)" id="Freeform_6--slide10--27" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:blue;">inks</text>
+    </a>
+    <path d="M496.751 227.992 L635.751 227.992 L635.751 229.992 L496.751 229.992 Z" id="Freeform_7--slide10--28" fill-rule="evenodd" class="fragment-off" data-fragment-index="1" style="fill:blue;" />
+    <path d="M7.50005 106.001 C7.50005 88.0511 22.0611 73.5001 40.0231 73.5001 L429.977 73.5001 C447.939 73.5001 462.5 88.0511 462.5 106.001 L462.5 235.999 C462.5 253.949 447.939 268.5 429.977 268.5 L40.0231 268.5 C22.0611 268.5 7.50005 253.949 7.50005 235.999 L7.50005 106.001 Z" id="Freeform_7--slide10--29" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="1" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(46.3861, 166)" id="Freeform_7--slide10--30" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="80" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">Too Limited</text>
+    <text transform="translate(95.3195, 227)" id="Freeform_7--slide10--31" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="48" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">(Slide Sharing)</text>
+    <path d="M1272.5 323.667 L1272.5 428.333 C1272.5 442.785 1260.84 454.5 1246.45 454.5 L462.5 454.5 L462.5 454.5 L462.5 297.5 L462.5 297.5 L1246.45 297.5 C1260.84 297.5 1272.5 309.216 1272.5 323.667 Z" id="Freeform_8--slide10--32" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" fill-opacity="0.9" stroke-opacity="0.9" class="fragment-off" data-fragment-index="2" style="fill:#D0D8E8;stroke:#D0D8E8;" />
+    <text transform="translate(472.751, 341)" id="Freeform_8--slide10--33" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="2">•</text>
+    <a href="https://www.ispringsolutions.com/" id="Freeform_8--slide10--34__LINK" target="_blank">
+      <text transform="translate(496.751, 341)" id="Freeform_8--slide10--34" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:blue;">iSpring</text>
+      <text transform="translate(601.418, 341)" id="Freeform_8--slide10--35" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:blue;">Solutions</text>
+    </a>
+    <path d="M496.751 345.137 L614.251 345.137 L731.751 345.137 L731.751 347.137 L614.251 347.137 L496.751 347.137 Z" id="Freeform_8--slide10--36" fill-rule="evenodd" class="fragment-off" data-fragment-index="2" style="fill:blue;" />
+    <text transform="translate(472.751, 385)" id="Freeform_8--slide10--37" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="2">•</text>
+    <a href="https://www.articulate.com/360/storyline" id="Freeform_8--slide10--38__LINK" target="_blank">
+      <text transform="translate(496.751, 385)" id="Freeform_8--slide10--38" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:blue;">Articulate Storyline</text>
+    </a>
+    <path d="M496.751 389.137 L631.751 389.137 L766.751 389.137 L766.751 391.137 L631.751 391.137 L496.751 391.137 Z" id="Freeform_8--slide10--39" fill-rule="evenodd" class="fragment-off" data-fragment-index="2" style="fill:blue;" />
+    <text transform="translate(472.751, 429)" id="Freeform_8--slide10--40" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="2">•</text>
+    <a href="https://www.adobe.com/products/captivate.html" id="Freeform_8--slide10--41__LINK" target="_blank">
+      <text transform="translate(496.751, 429)" id="Freeform_8--slide10--41" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:blue;">Adobe Captivate</text>
+    </a>
+    <path d="M496.751 433.137 L612.751 433.137 L728.751 433.137 L728.751 435.137 L612.751 435.137 L496.751 435.137 Z" id="Freeform_9--slide10--42" fill-rule="evenodd" class="fragment-off" data-fragment-index="2" style="fill:blue;" />
+    <path d="M7.50005 311.001 C7.50005 293.051 22.0611 278.5 40.0231 278.5 L429.977 278.5 C447.939 278.5 462.5 293.051 462.5 311.001 L462.5 440.999 C462.5 458.949 447.939 473.5 429.977 473.5 L40.0231 473.5 C22.0611 473.5 7.50005 458.949 7.50005 440.999 L7.50005 311.001 Z" id="Freeform_9--slide10--43" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(74.2895, 371)" id="Freeform_9--slide10--44" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="80" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Too Much</text>
+    <text transform="translate(79.4628, 432)" id="Freeform_9--slide10--45" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="48" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">(LMS Platforms)</text>
+    <path d="M1272.5 529.501 L1272.5 633.5 C1272.5 647.859 1260.84 659.5 1246.45 659.5 L462.5 659.5 L462.5 659.5 L462.5 503.5 L462.5 503.5 L1246.45 503.5 C1260.84 503.5 1272.5 515.141 1272.5 529.501 Z" id="Freeform_10--slide10--46" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" fill-opacity="0.9" stroke-opacity="0.9" class="fragment-off" data-fragment-index="3" style="fill:#D0D8E8;stroke:#D0D8E8;" />
+    <text transform="translate(472.751, 546)" id="Freeform_10--slide10--47" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="3">•</text>
+    <a href="https://www.canva.com/" id="Freeform_10--slide10--48__LINK" target="_blank">
+      <text transform="translate(496.751, 546)" id="Freeform_10--slide10--48" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:blue;">Canva</text>
+    </a>
+    <path d="M496.751 550.282 L581.751 550.282 L581.751 552.282 L496.751 552.282 Z" id="Freeform_10--slide10--49" fill-rule="evenodd" class="fragment-off" data-fragment-index="3" style="fill:blue;" />
+    <text transform="translate(472.751, 590)" id="Freeform_10--slide10--50" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="3">•</text>
+    <a href="https://prezi.com/" id="Freeform_10--slide10--51__LINK" target="_blank">
+      <text transform="translate(496.751, 590)" id="Freeform_10--slide10--51" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:blue;">Prezi</text>
+    </a>
+    <path d="M496.751 594.282 L564.751 594.282 L564.751 596.282 L496.751 596.282 Z" id="Freeform_10--slide10--52" fill-rule="evenodd" class="fragment-off" data-fragment-index="3" style="fill:blue;" />
+    <text transform="translate(472.751, 634)" id="Freeform_10--slide10--53" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="3">•</text>
+    <a href="https://pitch.com/" id="Freeform_10--slide10--54__LINK" target="_blank">
+      <text transform="translate(496.751, 634)" id="Freeform_10--slide10--54" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="35" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:blue;">Pitch</text>
+    </a>
+    <path d="M496.751 638.282 L566.751 638.282 L566.751 640.282 L496.751 640.282 Z" id="Freeform_11--slide10--55" fill-rule="evenodd" class="fragment-off" data-fragment-index="3" style="fill:blue;" />
+    <path d="M7.50005 516.001 C7.50005 498.051 22.0611 483.5 40.0231 483.5 L429.977 483.5 C447.939 483.5 462.5 498.051 462.5 516.001 L462.5 645.999 C462.5 663.949 447.939 678.5 429.977 678.5 L40.0231 678.5 C22.0611 678.5 7.50005 663.949 7.50005 645.999 L7.50005 516.001 Z" id="Freeform_11--slide10--56" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(44.2428, 581)" id="Freeform_11--slide10--57" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="72" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">Too Different</text>
+    <text transform="translate(40.9495, 630)" id="Freeform_11--slide10--58" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">(PowerPoint Alternatives)</text>
+  </g>
+</svg>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="1280" height="720" />
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="0" y="3.63798E-12" width="2000250" height="885825" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="280" height="125" xlink:href="images/Slide9--img2.png" id="img2" />
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="1984248" height="885825" />
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="164218" y="164218" width="138289" height="138289" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="32" height="32" xlink:href="images/Slide9--img5.png" id="img5" />
+    <clipPath id="clip6">
+      <path d="M0 233363 C-2.97102E-11 104480 104480 -2.97102E-11 233363 -5.94203E-11 C362245 -1.18841E-10 466725 104480 466725 233363 C466725 362245 362245 466725 233363 466725 C104480 466725 -1.48551E-10 362245 0 233363 Z" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" id="gSlide--slide9">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--slide9--0" style="fill:white;" />
+    <text transform="translate(12.9109, 705)" id="SectionNameTextPlaceholder--slide9--1" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="20" font-weight="400" style="fill:#4F81BD;">(my voice</text>
+    <text transform="translate(95.0175, 705)" id="SectionNameTextPlaceholder--slide9--2" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="20" font-weight="400" style="fill:#4F81BD;">–</text>
+    <text transform="translate(109.518, 705)" id="SectionNameTextPlaceholder--slide9--3" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="20" font-weight="400" style="fill:#4F81BD;">manually recorded using the Narration feature in PowerPoint)</text>
+    <rect x="0" y="0" width="1280" height="67" id="Title_2--slide9--4" style="fill:#8064A2;" />
+    <text transform="translate(9.6, 46)" id="Title_2--slide9--5" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Email me at</text>
+    <a href="mailto:John@MultimodalSlides.com?subject=I%20am%20interested%20in%20Multimodal%20Slides&body=(Please do not send attachments, unless requested.)%0D%0A%0D%0AAnswering the questions below helps me reduce spam...%0D%0ADo you want to be added to the mailing list? Y/N%0D%0ADo you want to become a beta tester? Y/N" id="Title_2--slide9--6__LINK">
+      <text transform="translate(221.18, 46)" id="Title_2--slide9--6" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:blue;">John@</text>
+      <text transform="translate(339.18, 46)" id="Title_2--slide9--7" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:blue;">Multimodal</text>
+      <text transform="translate(538.347, 46)" id="Title_2--slide9--8" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:blue;">Slides</text>
+      <text transform="translate(636.513, 46)" id="Title_2--slide9--9" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:blue;">.</text>
+      <text transform="translate(647.013, 46)" id="Title_2--slide9--10" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:blue;">com</text>
+    </a>
+    <text transform="translate(730.593, 46)" id="Title_2--slide9--11" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">to</text>
+    <text transform="translate(776.173, 46)" id="Title_2--slide9--12" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">be</text>
+    <text transform="translate(829.173, 46)" id="Title_2--slide9--13" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">a Beta User</text>
+    <path d="M221.6 50.7026 L471.1 50.7026 L720.6 50.7026 L720.6 52.7026 L471.1 52.7026 L221.6 52.7026 Z" id="Title_2--slide9--14" fill-rule="evenodd" style="fill:blue;" />
+    <path d="M7.50005 96.3337 C7.50005 87.0367 15.0135 79.5001 24.2817 79.5001 L1255.72 79.5001 C1264.99 79.5001 1272.5 87.0367 1272.5 96.3337 L1272.5 163.666 C1272.5 172.963 1264.99 180.5 1255.72 180.5 L24.2817 180.5 C15.0135 180.5 7.50005 172.963 7.50005 163.666 L7.50005 96.3337 Z" id="Freeform_9--slide9--15" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="1" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(27.7047, 145)" id="Freeform_9--slide9--16" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="53" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">I’m Looking for…</text>
+    <text transform="translate(46.9659, 219)" id="LookingForBulletPointsText--slide9--17" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1">•</text>
+    <text transform="translate(76.9659, 219)" id="LookingForBulletPointsText--slide9--18" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1">PowerPoint</text>
+    <text transform="translate(279.406, 219)" id="LookingForBulletPointsText--slide9--19" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="700" class="fragment-off" data-fragment-index="1">Beginners</text>
+    <text transform="translate(458.399, 219)" id="LookingForBulletPointsText--slide9--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1">and</text>
+    <a href="https://www.presentationguild.org/" id="LookingForBulletPointsText--slide9--21__LINK" target="_blank">
+      <text transform="translate(530.899, 219)" id="LookingForBulletPointsText--slide9--21" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="700" class="fragment-off" data-fragment-index="1" style="fill:blue;">Power Users</text>
+    </a>
+    <path d="M530.966 224.374 L744.966 224.374 L744.966 227.374 L530.966 227.374 Z" id="LookingForBulletPointsText--slide9--22" fill-rule="evenodd" class="fragment-off" data-fragment-index="1" style="fill:blue;" />
+    <text transform="translate(46.9659, 273)" id="LookingForBulletPointsText--slide9--23" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1">•</text>
+    <text transform="translate(76.9659, 273)" id="LookingForBulletPointsText--slide9--24" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1">Speakers</text>
+    <text transform="translate(46.9659, 328)" id="LookingForBulletPointsText--slide9--25" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1">•</text>
+    <text transform="translate(76.9659, 328)" id="LookingForBulletPointsText--slide9--26" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="700" class="fragment-off" data-fragment-index="1">Trainers</text>
+    <text transform="translate(222.599, 328)" id="LookingForBulletPointsText--slide9--27" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1">and</text>
+    <text transform="translate(295.099, 328)" id="LookingForBulletPointsText--slide9--28" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="700" class="fragment-off" data-fragment-index="1">Teachers</text>
+    <text transform="translate(46.9659, 382)" id="LookingForBulletPointsText--slide9--29" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1">•</text>
+    <a href="https://www.writethedocs.org/" id="LookingForBulletPointsText--slide9--30__LINK" target="_blank">
+      <text transform="translate(76.9659, 382)" id="LookingForBulletPointsText--slide9--30" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:blue;">Documentarians</text>
+    </a>
+    <path d="M76.9659 387.374 L352.966 387.374 L352.966 390.374 L76.9659 390.374 Z" id="LookingForBulletPointsText--slide9--31" fill-rule="evenodd" class="fragment-off" data-fragment-index="1" style="fill:blue;" />
+    <text transform="translate(46.9659, 437)" id="LookingForBulletPointsText--slide9--32" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1">•</text>
+    <text transform="translate(76.9659, 437)" id="LookingForBulletPointsText--slide9--33" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="41" font-weight="400" class="fragment-off" data-fragment-index="1">Bloggers</text>
+    <path d="M7.50005 475.334 C7.50005 466.037 15.0135 458.5 24.2817 458.5 L1255.72 458.5 C1264.99 458.5 1272.5 466.037 1272.5 475.334 L1272.5 542.666 C1272.5 551.963 1264.99 559.5 1255.72 559.5 L24.2817 559.5 C15.0135 559.5 7.50005 551.963 7.50005 542.666 L7.50005 475.334 Z" id="Freeform_13--slide9--34" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(27.7047, 524)" id="Freeform_13--slide9--35" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="53" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Help me shape what is important to you</text>
+    <path d="M7.50005 588.334 C7.50005 579.037 15.0135 571.5 24.2817 571.5 L1255.72 571.5 C1264.99 571.5 1272.5 579.037 1272.5 588.334 L1272.5 655.666 C1272.5 664.963 1264.99 672.5 1255.72 672.5 L24.2817 672.5 C15.0135 672.5 7.50005 664.963 7.50005 655.666 L7.50005 588.334 Z" id="Freeform_14--slide9--36" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(27.7047, 637)" id="Freeform_14--slide9--37" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="53" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">*** Get Notified When Released ***</text>
+    <path d="M954.5 518.501 C954.5 506.35 964.35 496.5 976.501 496.5 L1217.5 496.5 C1229.65 496.5 1239.5 506.35 1239.5 518.501 L1239.5 606.5 C1239.5 618.65 1229.65 628.5 1217.5 628.5 L976.501 628.5 C964.35 628.5 954.5 618.65 954.5 606.5 Z" id="Rounded_Rectangle_6--slide9--38" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="4" style="fill:#9BBB59;stroke:#1C334E;" />
+    <a href="mailto:John@MultimodalSlides.com?subject=I%20am%20interested%20in%20Multimodal%20Slides&body=(Please do not send attachments, unless requested.)%0D%0A%0D%0AAnswering the questions below helps me reduce spam...%0D%0ADo you want to be added to the mailing list? Y/N%0D%0ADo you want to become a beta tester? Y/N" id="Rounded_Rectangle_6--slide9--39__LINK">
+      <text transform="translate(984.973, 582)" id="Rounded_Rectangle_6--slide9--39" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="59" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:blue;">Email Me</text>
+    </a>
+    <path d="M985.473 588.779 L1041.22 588.779 L1096.97 588.779 L1152.72 588.779 L1208.47 588.779 L1208.47 592.779 L1152.72 592.779 L1096.97 592.779 L1041.22 592.779 L985.473 592.779 Z" id="Rounded_Rectangle_6--slide9--40" fill-rule="evenodd" class="fragment-off" data-fragment-index="4" style="fill:blue;" />
+    <g clip-path="url(#clip1)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1071, -3)" id="Content_Placeholder_17--slide9--41">
+      <g clip-path="url(#clip3)" transform="matrix(1.00806, 0, 0, 1, -1, 0)">
+        <use xlink:href="#img2" width="100%" height="100%" transform="scale(7086.6)" />
+      </g>
+    </g>
+    <path d="M706.5 103.834 C706.5 96.4698 712.47 90.5001 719.834 90.5001 L1226.17 90.5001 C1233.53 90.5001 1239.5 96.4698 1239.5 103.834 L1239.5 157.166 C1239.5 164.53 1233.53 170.5 1226.17 170.5 L719.834 170.5 C712.47 170.5 706.5 164.53 706.5 157.166 Z" id="Rounded_Rectangle_8--slide9--42" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="1" style="fill:#8064A2;stroke:#1C334E;" />
+    <text transform="translate(729.463, 150)" id="Rounded_Rectangle_8--slide9--43" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="59" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">(Limited Availability)</text>
+    <g clip-path="url(#clip4)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1222, 662)" id="Audio_30--slide9--44" style="display:none;">
+      <g clip-path="url(#clip6)">
+        <use xlink:href="#img5" width="100%" height="100%" transform="matrix(4321.53, 0, 0, 4321.53, 164218, 164218)" />
+      </g>
+    </g>
+  </g>
+</svg>

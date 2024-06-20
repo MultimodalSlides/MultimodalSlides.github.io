@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="1280" height="720" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" id="gSlide--slide3">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--slide3--0" style="fill:white;" />
+    <text transform="translate(9.60063, 708)" id="SectionNameTextPlaceholder--slide3--1" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Text</text>
+    <text transform="translate(44.7806, 708)" id="SectionNameTextPlaceholder--slide3--2" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(51.2806, 708)" id="SectionNameTextPlaceholder--slide3--3" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">to</text>
+    <text transform="translate(69.574, 708)" id="SectionNameTextPlaceholder--slide3--4" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(76.074, 708)" id="SectionNameTextPlaceholder--slide3--5" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Speech with</text>
+    <text transform="translate(186.741, 708)" id="SectionNameTextPlaceholder--slide3--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Aria</text>
+    <text transform="translate(226.407, 708)" id="SectionNameTextPlaceholder--slide3--7" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(237.741, 708)" id="SectionNameTextPlaceholder--slide3--8" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">a</text>
+    <text transform="translate(252.741, 708)" id="SectionNameTextPlaceholder--slide3--9" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Fem</text>
+    <text transform="translate(289.927, 708)" id="SectionNameTextPlaceholder--slide3--10" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">ale</text>
+    <text transform="translate(320.427, 708)" id="SectionNameTextPlaceholder--slide3--11" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Voice</text>
+    <rect x="0" y="0" width="1280" height="67" id="Title_3--slide3--12" style="fill:#8064A2;" />
+    <text transform="translate(9.6, 46)" id="Title_3--slide3--13" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">Multimodal Content Examples</text>
+    <path d="M7.50005 99.8336 C7.50005 93.5743 12.5716 88.5001 18.8277 88.5001 L1261.17 88.5001 C1267.43 88.5001 1272.5 93.5743 1272.5 99.8336 L1272.5 145.166 C1272.5 151.426 1267.43 156.5 1261.17 156.5 L18.8277 156.5 C12.5716 156.5 7.50005 151.426 7.50005 145.166 L7.50005 99.8336 Z" id="Freeform_2--slide3--14" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="1" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(20.9067, 132)" id="Freeform_2--slide3--15" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="36" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">Educational Videos</text>
+    <text transform="translate(46.9659, 183)" id="Freeform_5--slide3--16" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="28" font-weight="400" class="fragment-off" data-fragment-index="1">•</text>
+    <text transform="translate(70.9659, 183)" id="Freeform_5--slide3--17" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="28" font-weight="400" class="fragment-off" data-fragment-index="1">Combining visual aids, spoken explanations, and text annotations to teach a concept.</text>
+    <path d="M7.50005 214.834 C7.50005 208.574 12.5716 203.5 18.8277 203.5 L1261.17 203.5 C1267.43 203.5 1272.5 208.574 1272.5 214.834 L1272.5 260.166 C1272.5 266.426 1267.43 271.5 1261.17 271.5 L18.8277 271.5 C12.5716 271.5 7.50005 266.426 7.50005 260.166 L7.50005 214.834 Z" id="Freeform_8--slide3--18" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(20.9067, 247)" id="Freeform_8--slide3--19" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="36" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Web Pages</text>
+    <text transform="translate(46.9659, 298)" id="Freeform_17--slide3--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="28" font-weight="400" class="fragment-off" data-fragment-index="2">•</text>
+    <text transform="translate(70.9659, 298)" id="Freeform_17--slide3--21" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="28" font-weight="400" class="fragment-off" data-fragment-index="2">Using a mix of text, images, videos, and interactive graphics to provide a rich user experience.</text>
+    <path d="M7.50005 329.834 C7.50005 323.574 12.5716 318.5 18.8277 318.5 L1261.17 318.5 C1267.43 318.5 1272.5 323.574 1272.5 329.834 L1272.5 375.166 C1272.5 381.426 1267.43 386.5 1261.17 386.5 L18.8277 386.5 C12.5716 386.5 7.50005 381.426 7.50005 375.166 L7.50005 329.834 Z" id="Freeform_18--slide3--22" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(20.9067, 362)" id="Freeform_18--slide3--23" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="36" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">Presentations</text>
+    <text transform="translate(46.9659, 413)" id="Freeform_19--slide3--24" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="28" font-weight="400" class="fragment-off" data-fragment-index="3">•</text>
+    <text transform="translate(70.9659, 413)" id="Freeform_19--slide3--25" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="28" font-weight="400" class="fragment-off" data-fragment-index="3">Incorporating slides with text, images, and videos to support a verbal presentation.</text>
+    <path d="M7.50005 444.834 C7.50005 438.574 12.5716 433.5 18.8277 433.5 L1261.17 433.5 C1267.43 433.5 1272.5 438.574 1272.5 444.834 L1272.5 490.166 C1272.5 496.426 1267.43 501.5 1261.17 501.5 L18.8277 501.5 C12.5716 501.5 7.50005 496.426 7.50005 490.166 L7.50005 444.834 Z" id="Freeform_20--slide3--26" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="4" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(20.9067, 477)" id="Freeform_20--slide3--27" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="36" font-weight="400" class="fragment-off" data-fragment-index="4" style="fill:white;">Augmented Reality (AR) and Virtual Reality (VR)</text>
+    <text transform="translate(46.9659, 528)" id="Freeform_21--slide3--28" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="28" font-weight="400" class="fragment-off" data-fragment-index="4">•</text>
+    <text transform="translate(70.9659, 528)" id="Freeform_21--slide3--29" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="28" font-weight="400" class="fragment-off" data-fragment-index="4">Integrating audio, visual, and sometimes tactile elements to create immersive experiences.</text>
+    <path d="M7.50005 559.834 C7.50005 553.574 12.5716 548.5 18.8277 548.5 L1261.17 548.5 C1267.43 548.5 1272.5 553.574 1272.5 559.834 L1272.5 605.166 C1272.5 611.426 1267.43 616.5 1261.17 616.5 L18.8277 616.5 C12.5716 616.5 7.50005 611.426 7.50005 605.166 L7.50005 559.834 Z" id="Freeform_22--slide3--30" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="5" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(20.9067, 591)" id="Freeform_22--slide3--31" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="36" font-weight="400" class="fragment-off" data-fragment-index="5" style="fill:white;">Interactive Infographics</text>
+    <text transform="translate(46.9659, 643)" id="Freeform_23--slide3--32" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="28" font-weight="400" class="fragment-off" data-fragment-index="5">•</text>
+    <text transform="translate(70.9659, 643)" id="Freeform_23--slide3--33" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="28" font-weight="400" class="fragment-off" data-fragment-index="5">Combining data visualization, text, and interactive elements to present complex information clearly.</text>
+    <path d="M910.5 26.6671 C910.5 12.2154 922.215 0.500053 936.667 0.500053 L1254.33 0.500053 C1268.78 0.500053 1280.5 12.2154 1280.5 26.6671 L1280.5 131.333 C1280.5 145.785 1268.78 157.5 1254.33 157.5 L936.667 157.5 C922.215 157.5 910.5 145.785 910.5 131.333 Z" id="Rounded_Rectangle_10--slide3--34" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" style="fill:#4F81BD;stroke:#1C334E;" />
+    <text transform="translate(941.874, 47)" id="Rounded_Rectangle_10--slide3--35" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="37" font-weight="400" style="fill:white;">Multimodal Content</text>
+    <g id="Graphic_11--slide3--36">
+      <g>
+        <g>
+          <path d="M981.979 102.708 L981.979 67.2917 L995 67.2917 L995 78.2292 L1008.02 78.2292 L1008.02 102.708 L981.979 102.708 Z M998.125 68.5938 L1004.64 75.1042 L998.125 75.1042 L998.125 68.5938 Z M998.125 64.1667 L978.854 64.1667 L978.854 105.833 L1011.15 105.833 L1011.15 75.625 L998.125 64.1667 Z" />
+          <path d="M985.104 83.4375 L1004.9 83.4375 L1004.9 85.5208 L985.104 85.5208 Z" />
+          <path d="M985.104 79.2708 L991.875 79.2708 L991.875 81.3542 L985.104 81.3542 Z" />
+          <path d="M985.104 87.6042 L1004.9 87.6042 L1004.9 89.6875 L985.104 89.6875 Z" />
+          <path d="M985.104 91.7708 L1004.9 91.7708 L1004.9 93.8542 L985.104 93.8542 Z" />
+          <path d="M985.104 95.9375 L1004.9 95.9375 L1004.9 98.0208 L985.104 98.0208 Z" />
+        </g>
+      </g>
+    </g>
+    <g id="Graphic_12--slide3--37">
+      <g>
+        <g>
+          <path d="M1114.28 71.4583 L1112.25 73.4896 C1118.71 79.9479 1118.71 90.4688 1112.25 96.9271 L1114.28 98.9583 C1121.89 91.4062 1121.89 79.0625 1114.28 71.4583 Z" />
+          <path d="M1110.17 75.5208 L1108.14 77.5521 C1112.35 81.7708 1112.35 88.5938 1108.14 92.8646 L1110.17 94.8958 C1115.53 89.5312 1115.53 80.8854 1110.17 75.5208 Z" />
+          <path d="M1106.16 79.6875 L1104.12 81.7188 C1106.1 83.6979 1106.1 86.875 1104.12 88.8542 L1106.16 90.8854 C1109.28 87.7604 1109.28 82.7604 1106.16 79.6875 Z" />
+          <path d="M1077.82 78.0208 L1077.82 91.9792 L1087.93 91.9792 L1101 102.708 L1101 67.2917 L1087.93 78.0208 Z" />
+        </g>
+      </g>
+    </g>
+    <g id="Graphic_13--slide3--38">
+      <g>
+        <g>
+          <path d="M1203.24 92.5 C1207.3 88.5938 1207.51 82.1354 1203.66 77.9688 C1207.77 80.1042 1211.16 83.3854 1213.14 85.5729 C1211.05 87.6042 1207.51 90.625 1203.24 92.5 Z M1182.77 81.7708 C1184.49 80.3125 1186.31 79.0625 1188.29 78.0208 C1184.49 82.1875 1184.7 88.5938 1188.76 92.5 C1184.49 90.625 1180.9 87.6042 1178.86 85.5729 C1180.06 84.2188 1181.36 82.9688 1182.77 81.7708 L1182.77 81.7708 Z M1196 93.3333 C1191.42 93.3333 1187.67 89.5833 1187.67 85 C1187.67 80.4167 1191.42 76.6667 1196 76.6667 C1200.58 76.6667 1204.33 80.4167 1204.33 85 C1204.33 89.5833 1200.58 93.3333 1196 93.3333 Z M1216.26 84.1146 C1213.24 80.5729 1205.32 72.5 1196 72.5 C1186.68 72.5 1178.76 80.5729 1175.74 84.1146 C1174.96 85.0521 1175.01 86.3542 1175.84 87.2396 C1178.92 90.4688 1186.78 97.5 1196 97.5 C1205.22 97.5 1213.08 90.4688 1216.21 87.2396 C1216.99 86.4062 1217.04 85.0521 1216.26 84.1146 Z" />
+          <path d="M1201.21 85 C1201.21 87.8765 1198.88 90.2083 1196 90.2083 C1193.12 90.2083 1190.79 87.8765 1190.79 85 C1190.79 82.1235 1193.12 79.7917 1196 79.7917 C1198.88 79.7917 1201.21 82.1235 1201.21 85 Z" />
+        </g>
+      </g>
+    </g>
+    <rect x="951" y="110" width="83" height="33" id="Rectangle_14--slide3--39" style="fill:#4F81BD;" />
+    <text transform="translate(968.45, 134)" id="Rectangle_14--slide3--40" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">Read</text>
+    <rect x="1055" y="110" width="83" height="33" id="Rectangle_15--slide3--41" style="fill:#4F81BD;" />
+    <text transform="translate(1067.67, 134)" id="Rectangle_15--slide3--42" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">Listen</text>
+    <rect x="1155" y="110" width="83" height="33" id="Rectangle_16--slide3--43" style="fill:#4F81BD;" />
+    <text transform="translate(1165.25, 134)" id="Rectangle_16--slide3--44" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="24" font-weight="400" style="fill:white;">Watch</text>
+  </g>
+</svg>

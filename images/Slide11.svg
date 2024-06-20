@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xml="http://www.w3.org/XML/1998/namespace" width="1280" height="720" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="1657350" height="1123950" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="500" height="250" xlink:href="images/Slide11--img1.jpg" id="img1" />
+    <clipPath id="clip2">
+      <rect x="1092052" y="368355" width="1651345" height="1123950" />
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="0" y="0" width="2781300" height="1238250" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="560" height="249" xlink:href="images/Slide11--img4.png" id="img4" />
+    <clipPath id="clip5">
+      <rect x="0" y="0" width="2781300" height="1236685" />
+    </clipPath>
+    <clipPath id="clip6">
+      <rect x="0" y="0" width="2619375" height="1114425" />
+    </clipPath>
+    <image preserveAspectRatio="none" width="413" height="175" xlink:href="images/Slide11--img7.jpg" id="img7" />
+    <clipPath id="clip8">
+      <rect x="0" y="0" width="2619375" height="1109905" />
+    </clipPath>
+  </defs>
+  <g id="gSlide--slide11">
+    <rect x="0" y="0" width="1280" height="720" id="rectSlide--slide11--0" style="fill:white;" />
+    <text transform="translate(9.60063, 708)" id="SectionNameTextPlaceholder--slide11--1" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Text</text>
+    <text transform="translate(44.7806, 708)" id="SectionNameTextPlaceholder--slide11--2" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(51.2806, 708)" id="SectionNameTextPlaceholder--slide11--3" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">to</text>
+    <text transform="translate(69.574, 708)" id="SectionNameTextPlaceholder--slide11--4" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(76.074, 708)" id="SectionNameTextPlaceholder--slide11--5" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Speech with</text>
+    <text transform="translate(186.741, 708)" id="SectionNameTextPlaceholder--slide11--6" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">Steffan</text>
+    <text transform="translate(252.534, 708)" id="SectionNameTextPlaceholder--slide11--7" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">-</text>
+    <text transform="translate(263.867, 708)" id="SectionNameTextPlaceholder--slide11--8" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="21" font-weight="400" style="fill:#4F81BD;">a Male Voice</text>
+    <rect x="0" y="0" width="1280" height="67" id="Title_2--slide11--9" style="fill:#8064A2;" />
+    <text transform="translate(9.6, 46)" id="Title_2--slide11--10" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">This Website (</text>
+    <text transform="translate(250.58, 46)" id="Title_2--slide11--11" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">MultimodalSlides</text>
+    <text transform="translate(547.913, 46)" id="Title_2--slide11--12" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">.</text>
+    <text transform="translate(558.413, 46)" id="Title_2--slide11--13" font-family="Calibri Light,Calibri Light_MSFontService,sans-serif" font-size="43" font-weight="300" style="fill:white;">com)</text>
+    <path d="M7.50005 106.501 C7.50005 88.8273 21.8108 74.5001 39.464 74.5001 L1240.54 74.5001 C1258.19 74.5001 1272.5 88.8273 1272.5 106.501 L1272.5 234.499 C1272.5 252.173 1258.19 266.5 1240.54 266.5 L39.464 266.5 C21.8108 266.5 7.50005 252.173 7.50005 234.499 L7.50005 106.501 Z" id="Freeform_6--slide11--14" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="1" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(34.553, 187)" id="Freeform_6--slide11--15" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="61" font-weight="400" class="fragment-off" data-fragment-index="1" style="fill:white;">Created in PowerPoint</text>
+    <path d="M7.50005 312.334 C7.50005 294.753 21.8108 280.5 39.464 280.5 L1240.54 280.5 C1258.19 280.5 1272.5 294.753 1272.5 312.334 L1272.5 439.666 C1272.5 457.247 1258.19 471.5 1240.54 471.5 L39.464 471.5 C21.8108 471.5 7.50005 457.247 7.50005 439.666 L7.50005 312.334 Z" id="Freeform_7--slide11--16" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="2" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(34.553, 359)" id="Freeform_7--slide11--17" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="61" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Used tools for Text</text>
+    <text transform="translate(496.8, 359)" id="Freeform_7--slide11--18" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="61" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">-</text>
+    <text transform="translate(515.633, 359)" id="Freeform_7--slide11--19" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="61" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">to</text>
+    <text transform="translate(567.866, 359)" id="Freeform_7--slide11--20" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="61" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">-</text>
+    <text transform="translate(586.7, 359)" id="Freeform_7--slide11--21" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="61" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">Speech</text>
+    <text transform="translate(34.553, 425)" id="Freeform_7--slide11--22" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="61" font-weight="400" class="fragment-off" data-fragment-index="2" style="fill:white;">and Convert to Multimodal Web Page</text>
+    <path d="M7.50005 517.501 C7.50005 499.827 21.8108 485.5 39.464 485.5 L1240.54 485.5 C1258.19 485.5 1272.5 499.827 1272.5 517.501 L1272.5 645.499 C1272.5 663.173 1258.19 677.5 1240.54 677.5 L39.464 677.5 C21.8108 677.5 7.50005 663.173 7.50005 645.499 L7.50005 517.501 Z" id="Freeform_11--slide11--23" fill-rule="evenodd" stroke-width="1.33333" stroke-miterlimit="8" class="fragment-off" data-fragment-index="3" style="fill:#4F81BD;stroke:white;" />
+    <text transform="translate(34.553, 598)" id="Freeform_11--slide11--24" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="61" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:white;">Hosted on</text>
+    <a href="https://pages.github.com/" id="Freeform_11--slide11--25__LINK" target="_blank">
+      <text transform="translate(303.04, 598)" id="Freeform_11--slide11--25" font-family="Calibri,Calibri_MSFontService,sans-serif" font-size="61" font-weight="400" class="fragment-off" data-fragment-index="3" style="fill:blue;">GitHub Pages</text>
+    </a>
+    <path d="M302.553 605.174 L468.553 605.174 L634.553 605.174 L634.553 609.174 L468.553 609.174 L302.553 609.174 Z" id="Freeform_11--slide11--26" fill-rule="evenodd" class="fragment-off" data-fragment-index="3" style="fill:blue;" />
+    <a href="https://pages.github.com/" id="Picture_4--slide11--27__LINK" target="_blank">
+      <g clip-path="url(#clip0)" transform="matrix(0.000104987, 0, 0, 0.000104987, 1081, 513)" id="Picture_4--slide11--27" class="fragment-off" data-fragment-index="3">
+        <g clip-path="url(#clip2)" transform="matrix(1.00364, 0, 0, 1, -1096025, -368355)">
+          <use xlink:href="#img1" width="100%" height="100%" transform="scale(7803.72)" />
+        </g>
+      </g>
+    </a>
+    <g clip-path="url(#clip3)" transform="matrix(0.000104987, 0, 0, 0.000104987, 980, 320)" id="Content_Placeholder_17--slide11--28" class="fragment-off" data-fragment-index="2">
+      <g clip-path="url(#clip5)" transform="matrix(1, 0, 0, 1.00127, -1, -0.25)">
+        <use xlink:href="#img4" width="100%" height="100%" transform="scale(4966.61)" />
+      </g>
+    </g>
+    <g clip-path="url(#clip6)" transform="matrix(0.000104987, 0, 0, 0.000104987, 980, 105)" id="Picture_2--slide11--29" class="fragment-off" data-fragment-index="1">
+      <g clip-path="url(#clip8)" transform="matrix(1, 0, 0, 1.00407, -1, -0.0625)">
+        <use xlink:href="#img7" width="100%" height="100%" transform="scale(6342.31)" />
+      </g>
+    </g>
+  </g>
+</svg>
