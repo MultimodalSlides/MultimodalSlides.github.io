@@ -283,13 +283,13 @@ const callback = (mutationList, observer) => {
                     SetIsPlaying(true);
 
                     let speakerNotes = document.getElementsByClassName("speaker-notes:before");
-                    
+
+                    console.debug( "play " + speakerNotes);
+
                     let currentSlide = Reveal.getCurrentSlide();
                     let currentSlideId = currentSlide.getAttribute("id");
 
                     enableFragmentsOnSlide(currentSlideId, true);
-
-                    console.debug( "play " + speakerNotes);
                 });
                 item.addEventListener('pause', event => {
                     SetIsPlaying(false);
@@ -398,18 +398,14 @@ Reveal.on( 'fragmentshown', function( event ) {
     // event.fragment = the fragment DOM element
     let fragmentId = event.fragment.getAttribute("id");
 
-    //if ( timer ) { clearTimeout( timer ); timer = null; }
     console.debug( "fragmentshown " + fragmentId);
-    //selectAudio();
 });
 
 Reveal.on( 'fragmenthidden', function( event ) {
     // event.fragment = the fragment DOM element
     let fragmentId = event.fragment.getAttribute("id");
 
-    //if ( timer ) { clearTimeout( timer ); timer = null; }
     console.debug( "fragmenthidden " + fragmentId);
-    //selectAudio();
 });
 
 Reveal.on('slidechanged', (event) => {
@@ -422,6 +418,8 @@ Reveal.on('slidechanged', (event) => {
 
     console.debug( "slidechanged " + currentSlideId + " (" + previousSlideId + ")");
 
+    return;
+
     if (previousSlideId != "" && previousSlideId != currentSlideId)
     {
         disableFragmentsOnSlide(previousSlideId, false);
@@ -430,6 +428,10 @@ Reveal.on('slidechanged', (event) => {
     if (isPlaying)
     {
         enableFragmentsOnSlide(currentSlideId, true);
+    }
+    else
+    {
+        disableFragmentsOnSlide(currentSlideId, true);
     }
 });
 
@@ -446,6 +448,11 @@ Reveal.on('slidetransitionend', (event) => {
     
         audioPlayerForSlide.play();
     }
+});
+
+Reveal.on('resize', (event) => {
+    // event.scale, event.oldScale, event.size
+    console.log("resize ");
 });
 
 Reveal.on('overviewshown', (event) => {
