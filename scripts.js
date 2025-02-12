@@ -8,7 +8,7 @@ Reveal.initialize({
     slideNumber: "c/t",
     //fragments: false,
     //autoAnimate: false,
-    //mouseWheel: true,
+    mouseWheel: true,
     //view: 'scroll',
     //scrollProgress: true,
     //controlsLayout: 'edges',
@@ -48,7 +48,7 @@ Reveal.initialize({
 
     audio: {
         prefix: 'audio/', 	// audio files are stored in the "audio" folder
-        suffix: '.m4a',  	// audio files have the ".webm" ending
+        suffix: '.mp3',  	// audio files have the ".webm" ending
         textToSpeechURL: null,  // the URL to the text to speech converter
         defaultNotes: false, 	// use slide notes as default for the text to speech converter
         defaultText: false, 	// use slide text as default for the text to speech converter
