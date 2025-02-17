@@ -66,11 +66,9 @@ Reveal.initialize({
         RevealZoom,
         RevealNotes,
         RevealSearch,
-        RevealMarkdown,
         RevealHighlight,
         RevealMenu,
         RevealCustomControls,
-        //Simplemenu,
         RevealAudioSlideshow,
     ]
 });
